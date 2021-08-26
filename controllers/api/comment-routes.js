@@ -57,6 +57,7 @@ router.put('/:id', withAuth, (req, res) => {
     });
 });
 
+
 router.delete('/:id', withAuth, (req, res) => {
     Comment.destroy({
         where: {
@@ -67,6 +68,7 @@ router.delete('/:id', withAuth, (req, res) => {
             res.status(404).json({ message: 'No comment found with this id' });
             return;
         }
+
         res.json(dbCommentData);
     }).catch(err => {
         console.log(err);
