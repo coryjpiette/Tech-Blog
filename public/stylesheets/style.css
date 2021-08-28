@@ -236,3 +236,6 @@ p {
 .col-auto {
   flex-grow: 1;
 }
+.text-uppercase {
+  text-transform: uppercase;
+}
