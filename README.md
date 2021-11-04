@@ -2,7 +2,7 @@
 
 DESCRIPTION
 
-The Tech Blog is a mysql database/CMS blog built using Model View Controller (MVC), MySQL2, Sequelize, Express, dotenv, and Handlebars.
+The Tech Blog is a MYSQL database/CMS blog built using Model View Controller (MVC), MySQL2, Sequelize, Express, dotenv, and Handlebars.
 
 It is a CMS-style blog site where developers can publish their blog posts and comment on other developers’ posts as well. 
 
