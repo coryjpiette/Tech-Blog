@@ -4,6 +4,8 @@ DESCRIPTION
 
 The Tech Blog is a mysql database/CMS blog built using Model View Controller (MVC), MySQL2, Sequelize, Express, dotenv, and Handlebars.
 
+It is a CMS-style blog site where developers can publish their blog posts and comment on other developers’ posts as well. 
+
 You can view the deployed heroku app [here](https://sleepy-ocean-30169.herokuapp.com).
 
 Screenshot:
